@@ -1,0 +1,14 @@
+/home/oliver/Documents/projects/myWebApp/bin/Debug/netcoreapp2.2/myWebApp.deps.json
+/home/oliver/Documents/projects/myWebApp/bin/Debug/netcoreapp2.2/myWebApp.runtimeconfig.json
+/home/oliver/Documents/projects/myWebApp/bin/Debug/netcoreapp2.2/myWebApp.runtimeconfig.dev.json
+/home/oliver/Documents/projects/myWebApp/bin/Debug/netcoreapp2.2/myWebApp.dll
+/home/oliver/Documents/projects/myWebApp/bin/Debug/netcoreapp2.2/myWebApp.pdb
+/home/oliver/Documents/projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.csprojAssemblyReference.cache
+/home/oliver/Documents/projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.csproj.CoreCompileInputs.cache
+/home/oliver/Documents/projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.RazorAssemblyInfo.cache
+/home/oliver/Documents/projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.RazorAssemblyInfo.cs
+/home/oliver/Documents/projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.AssemblyInfoInputs.cache
+/home/oliver/Documents/projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.AssemblyInfo.cs
+/home/oliver/Documents/projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.RazorTargetAssemblyInfo.cache
+/home/oliver/Documents/projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.dll
+/home/oliver/Documents/projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.pdb
